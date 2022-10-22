@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() , ItemInteraction {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        //https://www.youtube.com/watch?v=-wB_JE_PRTo
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
